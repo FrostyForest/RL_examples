@@ -1,0 +1,11 @@
+cc2b90e
+
+commit cc2b90e4ee10c126ca958e91bc3e2ed767f49fe3
+Author: FrostyForest <58697869+FrostyForest@users.noreply.github.com>
+Date:   Mon Dec 2 13:45:56 2024 +0800
+
+    Initial commit
+
+ .gitignore | 162 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ LICENSE    |  21 ++++++++
+ 2 files changed, 183 insertions(+)
